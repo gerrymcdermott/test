@@ -1,4 +1,13 @@
 This is a test.......  yes it is! 
 
 And another! 
+<<<<<<< HEAD
 \
+=======
+
+And back..... 
+
+and forth
+
+and back again.....
+>>>>>>> 6538e3e4d07f46982cbfbc9234535f637785a114
